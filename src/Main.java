@@ -64,8 +64,8 @@ public class Main {
         System.out.println();
 
         for (int index = 0; index < array.length; index++) {
-            if(array[index] % 2 != 0 ){
-               array[index] += 1;
+            if(array[index] % 2 != 0 ) {
+                array[index] += 1;
             }
         }
 
